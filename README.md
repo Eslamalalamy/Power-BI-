@@ -5,5 +5,5 @@
 
 
 ### Market Research Dashboards
-- [Dashboard - Search Term "Bitcoin Mining" On Google Search Engine](https://app.powerbi.com/view?r=eyJrIjoiYzNkZTZlYWMtY2QwMi00Mzk4LWIxNzItZDc0Njg5YjhjZjAyIiwidCI6Ijc5ZjM0NWVlLWU3M2ItNDgxMi1hNTEyLWNmYjhiZGI4Mjk0OCJ9&pageName=ReportSection)
+- [Dashboard - Search Term "Bitcoin Mining" On Google Search Engine](https://app.powerbi.com/view?r=eyJrIjoiMDU0OWU2YTAtNDU4Zi00NzlhLTk2ZmItYjkxYzRjOGZkZDhjIiwidCI6Ijc5ZjM0NWVlLWU3M2ItNDgxMi1hNTEyLWNmYjhiZGI4Mjk0OCJ9)
 
