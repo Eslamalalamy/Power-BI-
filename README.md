@@ -1,7 +1,7 @@
 # Power BI Dashboard
 
 ### Financial 
-- [Financial KPI (Key Performance Indicator) ](https://app.powerbi.com/view?r=eyJrIjoiMDM3OGM0MTYtYjI3ZC00MzY2LTkwY2MtNWUzOTVhY2MwMzhjIiwidCI6Ijc5ZjM0NWVlLWU3M2ItNDgxMi1hNTEyLWNmYjhiZGI4Mjk0OCJ9)
+- [Financial KPI (Key Performance Indicator) ](https://app.powerbi.com/view?r=eyJrIjoiOWE5MjhkOTUtYjZlYy00NzIxLWIxNzItZTkyNjc0YWE2MjViIiwidCI6Ijc5ZjM0NWVlLWU3M2ItNDgxMi1hNTEyLWNmYjhiZGI4Mjk0OCJ9)
 
 ### HR
 - [Employees Report ](https://app.powerbi.com/view?r=eyJrIjoiMmY2OWQxYTAtMjYzMC00YTllLWE3MDMtYTZmNjZjNjY3ZmIwIiwidCI6Ijc5ZjM0NWVlLWU3M2ItNDgxMi1hNTEyLWNmYjhiZGI4Mjk0OCJ9&pageName=ReportSection)
