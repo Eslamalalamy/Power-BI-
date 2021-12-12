@@ -1,4 +1,4 @@
-# Power BI Dashboard
+# Power BI Dashboards
 
 ### Financial 
 - [Financial KPI (Key Performance Indicators)](https://app.powerbi.com/view?r=eyJrIjoiYjAwOTBkNWQtZThiNi00ZmM3LWEzMTMtM2E1ODk5OGQwYTQwIiwidCI6Ijc5ZjM0NWVlLWU3M2ItNDgxMi1hNTEyLWNmYjhiZGI4Mjk0OCJ9)
