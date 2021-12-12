@@ -3,6 +3,8 @@
 ### Financial 
 - [Financial KPI (Key Performance Indicators)](https://app.powerbi.com/view?r=eyJrIjoiYjAwOTBkNWQtZThiNi00ZmM3LWEzMTMtM2E1ODk5OGQwYTQwIiwidCI6Ijc5ZjM0NWVlLWU3M2ItNDgxMi1hNTEyLWNmYjhiZGI4Mjk0OCJ9)
 
+### Sales
+- [Sales Performance](https://app.powerbi.com/view?r=eyJrIjoiNjQ3ZGE4MTktNDMyMy00MGIyLTk0ZmUtMzliZTdmNTJkN2Y0IiwidCI6Ijc5ZjM0NWVlLWU3M2ItNDgxMi1hNTEyLWNmYjhiZGI4Mjk0OCJ9)
 ### HR
 - [Employees (1) ](https://app.powerbi.com/view?r=eyJrIjoiOTY5YmFhYmItNWE3Yy00N2NlLWE1NGEtYjI0MWFlYjlkZTE3IiwidCI6Ijc5ZjM0NWVlLWU3M2ItNDgxMi1hNTEyLWNmYjhiZGI4Mjk0OCJ9)
 
